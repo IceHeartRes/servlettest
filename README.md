@@ -7,3 +7,5 @@
 * the start page will be available at `http://tomcat_server_host:servlet_port`
 
 In the test purposes the database is filled with demostration data.
+
+To create a database, run the script from the **create_db.sql** file.
